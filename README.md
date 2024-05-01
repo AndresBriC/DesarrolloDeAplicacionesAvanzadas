@@ -48,6 +48,8 @@ DesarrolloDeAplicacionesAvanzadas/
     ├── version_135
     └── ! Missing
 ```
+This structure represents the organization of experiments conducted within the project.
+
 ## References
-- [(Actividad en Canvas)](README.md)
-- [(Notebook ejempo de Octavio)](README.md)
+- [(Canvas Activity)](README.md)
+- [(Example .ipynb)](README.md)
