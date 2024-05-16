@@ -163,3 +163,6 @@ cython_debug/
 DSet
 logs
 *.ckpt
+Modelo10/model10_weights.pth
+Modelo11/model11_weights.pth
+Modelo12/model12_weights.pth
